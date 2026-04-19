@@ -4,6 +4,7 @@
 .html {
     @apply font-mono;
     @apply bg-hawaii-panache;
+    @apply text-[110%];
 }
 
 .body {
@@ -13,6 +14,7 @@
 .nav {
     @apply bg-hawaii-beige;
     @apply p-1;
+    @apply font-bold;
 }
 
 .tablink-active {
