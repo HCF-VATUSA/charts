@@ -3,39 +3,39 @@
 
 .html {
     @apply font-mono;
-    @apply bg-gray-800;
+    @apply bg-hawaii-panache;
 }
 
 .body {
-    @apply text-gray-300;
+    @apply text-gray-800;
 }
 
 .nav {
-    @apply bg-gray-950;
+    @apply bg-hawaii-beige;
     @apply p-1;
 }
 
 .tablink-active {
     @apply border-b-4;
-    @apply bg-gray-800;
+    @apply bg-hawaii-panache;
 }
 
 .tablink {
     @apply p-1;
     @apply mx-1;
-    @apply hover:bg-gray-800;
+    @apply hover:bg-hawaii-panache;
 }
 
 .airport-bravo {
-    @apply text-orange-600;
+    @apply text-hawaii-orient;
 }
 
 .airport-charlie {
-    @apply text-sky-600;
+    @apply text-hawaii-teal;
 }
 
 .airport-delta {
-    @apply text-gray-300;
+    @apply text-hawaii-bluegreen;
 }
 
 .chartbutton-apd {
