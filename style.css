@@ -71,7 +71,7 @@
 }
 
 .chartbutton {
-    @apply hover:bg-gray-700;
+    @apply hover:bg-hawaii-shimmer;
     @apply border;
     @apply p-1;
     @apply m-1;
@@ -82,7 +82,7 @@
 }
 
 .chartbutton-active {
-    @apply bg-gray-700;
+    @apply bg-hawaii-shimmer;
     @apply font-extrabold;
 }
 
